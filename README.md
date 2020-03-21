@@ -10,10 +10,9 @@ These are my dotfiles for my own ubersicht widget bar.
 
 ### How to:
 
-Install Ubersicht https://github.com/felixhageloh/uebersicht
-
-Ensure you edit `deploy.sh` with your source and target folder to publish changes to your widgets
-Make the script executable with `chomd +x deploy.sh`
+* Install Ubersicht https://github.com/felixhageloh/uebersicht
+* Ensure you edit `deploy.sh` with your source and target folder to publish changes to your widgets
+* Make the script executable with `chomd +x deploy.sh`
 
 For every changes in the project folder that you want to deploy/test run:
 
